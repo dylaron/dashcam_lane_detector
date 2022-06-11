@@ -1,3 +1,13 @@
+'''
+My code is inspired by a YouTube Video
+titled 'OpenCV Python Tutorial - Find Lanes for Self-Driving Cars (Computer Vision Basics Tutorial)'
+by 'ProgrammingKnowledge'
+https://www.youtube.com/watch?v=eLTLtUVuuy4
+
+A simple demo video of my code below is available on my Instagram
+https://www.instagram.com/p/B3RBbJrHNyq/?igshid=YmMyMTA2M2Y=
+'''
+
 import cv2
 import numpy as np
 
